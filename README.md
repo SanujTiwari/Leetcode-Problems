@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
