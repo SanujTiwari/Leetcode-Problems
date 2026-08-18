@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
