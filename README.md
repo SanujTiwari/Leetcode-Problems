@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
