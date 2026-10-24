@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
