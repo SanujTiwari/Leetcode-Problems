@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3904-smallest-stable-index-ii](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
 |  |
