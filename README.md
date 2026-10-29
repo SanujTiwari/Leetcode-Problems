@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0486-predict-the-winner) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
