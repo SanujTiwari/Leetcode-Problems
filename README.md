@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0709-to-lower-case) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
