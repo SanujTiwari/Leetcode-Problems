@@ -167,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
