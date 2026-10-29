@@ -12,10 +12,10 @@ class Solution {
         int n=s.length();
         for(int i=0;i<n;i++){
             int currentVal=romanMap.get(s.charAt(i));
-            if(i<n-1 && currentVal <romanMap.get(s.charAt(i+1))){
+            if(i<n-1 && currentVal<romanMap.get(s.charAt(i+1))){
                 total-=currentVal;
             }else{
-                total +=currentVal;
+                total+=currentVal;
             }
         }
         return total;
