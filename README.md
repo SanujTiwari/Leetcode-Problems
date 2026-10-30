@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
