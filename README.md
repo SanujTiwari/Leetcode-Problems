@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
