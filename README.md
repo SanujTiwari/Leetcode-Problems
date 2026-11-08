@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -237,4 +239,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
