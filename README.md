@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [2747-count-zero-request-servers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -209,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -256,4 +261,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
