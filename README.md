@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1763-longest-nice-substring) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [1763-longest-nice-substring](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1763-longest-nice-substring) |
 | [2747-count-zero-request-servers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1763-longest-nice-substring](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1763-longest-nice-substring) |
 | [2747-count-zero-request-servers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [1763-longest-nice-substring](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
