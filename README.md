@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1267-count-servers-that-communicate](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SanujTiwari/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
